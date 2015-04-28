@@ -23,5 +23,7 @@ in              -       Print Device Input Modes
 ```
 
 discussion:
+
 http://forum.blackmagicdesign.com/viewtopic.php?f=18&t=35031
+
 http://casparcg.com/forum/viewtopic.php?f=12&t=3144
