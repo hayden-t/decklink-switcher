@@ -12,10 +12,17 @@ Usage: DeviceList.exe <device> <option>
 Where <option> is one of:
 
 list            -       Print Connections Available
+
 get             -       Get current connection state
+
 sdi             -       Switch to SDI Input (and save)
+
 hdmi            -       Switch to HDMI Input (and save)
 
+
 attr            -       Print Device Attributes
+
 out             -       Print Device Output Modes
+
 in              -       Print Device Input Modes
+
